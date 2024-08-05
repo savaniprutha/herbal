@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.slide .banner-contain {
+    padding: 240px 150px 120px 120px;
+}
+
+.slide .banner-contain h5 {
+    font-family: Nunito Sans;
+    font-size: 34px;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    text-align: left;
+    color: #214842;
+}
+
+.slide .banner-contain p {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    text-align: left;
+    padding-right: 60px;
+    padding-top: 20px;
+    min-height: 120px;
+}
+
+.btn-book {
+    background: #E2B423;
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-weight: 700;
+    color: #214842;
+    border-radius: 28px;
+    padding: 10px 30px;
+}
+
+.slide .banner-img {
+    background: #214842;
+    color: #fff !important;
+}
+
+.slide .banner-img h5 {
+    font-family: Nunito Sans;
+    font-size: 51px;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    text-align: right;
+    color: #fff;
+}
+
+.slide .banner-img p {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    text-align: right;
+    padding-right: 0;
+}
+
+.slide .banner-img .banner-contain button {
+    margin-left: 62%;
+}
+
+.slide img {
+    position: absolute;
+    padding-top: 80px;
+    right: 32%;
+}
+
+.team {
+    margin-top: 40px;
+}
+
+.team .team-contain h5 {
+    font-family: Nunito Sans;
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: #214842;
+}
+
+.team .team-contain p {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    text-align: left;
+}
+
+.counter {
+    margin-top: 20px;
+}
+
+.counter h5 {
+    font-family: Nunito Sans;
+    font-size: 59px;
+    font-weight: 800;
+    letter-spacing: 0.005em;
+    color: #258F67;
+}
+
+.counter p {
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: #404040;
+}
+
+.product {
+    margin-top: 90px;
+}
+
+.product .product-img img {
+    border-radius: 40px;
+}
+
+.product .product-contain h5 {
+    font-family: Nunito Sans;
+    font-size: 34px;
+    font-weight: 800;
+    letter-spacing: 0.005em;
+    color: #214842;
+}
+
+.product .product-contain p {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: #1F1F1F;
+    padding: 20px 0;
+}
+
+.product .product-contain .row img {
+    padding: 8px 0;
+
+}
+
+.product .product-contain h6 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.015em;
+    color: #646464;
+    padding: 8px 0;
+}
+
+.product .product-contain .col-md-3 h5 {
+    margin-top: 12px;
+}
+
+.product .product-contain .btn-product {
+    background: #E9AF2D;
+    color: #214842;
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 28px;
+    margin-top: 10px;
+    padding: 6px 20px;
+}
+
+.doctor {
+    margin-top: 100px;
+}
+
+.doctor .doctor-contain {
+    text-align: center;
+    background: url(../../public/img/doctor-bg.png);
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    padding: 119.5px 200px;
+
+}
+
+.doctor .doctor-contain h6 {
+    font-family: Nunito Sans;
+    font-size: 25px;
+    margin-top: 30px;
+    font-weight: 800;
+    color: #214842;
+}
+
+.effects {
+    margin-top: 200px;
+}
+
+.effects .effects-contain {
+    padding: 0 10px;
+}
+
+.effects .effects-contain h5 {
+    font-family: Nunito Sans;
+    font-size: 34px;
+    font-weight: 800;
+    line-height: 41.62px;
+    color: #214842;
+}
+
+.effects .effects-contain p {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.effects .effects-contain2 h5 {
+    font-family: Nunito Sans;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30.01px;
+    color: #214842;
+}
+
+.effects .effect-img {
+    width: 170%;
+    position: relative;
+    right: 40%;
+    bottom: 16%;
+    z-index: -1;
+}
+
+.effects .effects-contain2 p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17.07px;
+
+}
+
+.text-bg h6 {
+    font-family: Nunito Sans;
+    font-size: 31px;
+    font-weight: 800;
+    line-height: 37.94px;
+    letter-spacing: 0.035em;
+    text-align: center;
+    color: #214842;
+    margin: 40px 0 20px;
+    padding: 18px;
+    background: url(../../public/img/shop-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.shop .img-box {
+    position: relative;
+}
+
+.shop .img-box h5 {
+    position: absolute;
+    top: 47%;
+    left: 27%;
+    color: #fff;
+    font-family: Nunito Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38.19px;
+    text-transform: uppercase;
+
+}
+
+.shop .img-box img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 22px;
+}
+
+.shop .img-box::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.37);
+    border-radius: 22px;
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 200ms;
+}
+
+.shop .img-box:hover::after {
+    opacity: 1;
+}
+
+.shop .cta a {
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition-property: all;
+    transition-duration: 500ms;
+    z-index: 2;
+}
+
+.shop .img-box:hover .cta a {
+    opacity: 1;
+    left: 50%;
+}
+
+.shop .cta a:hover {
+    transform: translate(-50%, -50%) scale(1.1);
+}
+
+.story {
+    margin-top: 50px;
+}
+
+.story .story-contain {
+    border: 4px solid #21484263;
+    padding: 60px 0 50px 35px;
+    margin-top: 50px;
+}
+
+.story-contain h5 {
+    font-family: Nunito Sans;
+    font-size: 28px;
+    font-weight: revert;
+    line-height: 34.27px;
+    letter-spacing: 0.035em;
+    color: #214842;
+
+}
+
+.story-contain p {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.56px;
+    text-align: justify;
+    color: #404040;
+}
+
+.story-contain .story-img {
+    margin-top: 10%;
+}
+
+.nature .text-bg h6 {
+    margin: 90px 0 0;
+}
+
+.nature .story-contain {
+    border: 4px solid #21484263;
+    padding: 60px 35px 50px 0;
+    margin-top: 50px;
+}
+
+.nature .story-contain .story-img {
+    margin-top: 10%;
+    position: relative;
+    top: 4%;
+    right: 104%;
+}
+
+.nature .read {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 700;
+    color: #258F67;
+    text-decoration: none;
+}
+
+.promise {
+    margin-top: 50px;
+}
+
+.promise img {
+    width: 100%;
+}
+
+.promise .text-bg h6 {
+    margin-bottom: 0;
+}
+
+.promise h5 {
+    font-family: Nunito Sans;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 24.48px;
+    text-align: center;
+}
+
+.news {
+    margin-top: 50px;
+}
+
+.news .card {
+    border: none;
+}
+
+.news .card span {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17.14px;
+    padding-left: 10px;
+    color: #797979;
+}
+
+.news .card .card-title {
+    font-family: Nunito Sans;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.93px;
+    color: #214842;
+    margin-top: 10px;
+}
+
+.news .card .card-text {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.58px;
+    color: #797979;
+}
